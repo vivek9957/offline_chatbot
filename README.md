@@ -57,3 +57,14 @@ Python, NLP basics, text processing, fuzzy matching, project structuring.
 
 Vivek Devda
 B.Tech AIML Student
+
+
+## Demo
+
+### Chatbot Working
+
+![Chatbot Demo](screenshots/chatbot_demo.png)
+
+### Project Folder Structure
+
+![Folder Structure](screenshots/folder_structure.png)
