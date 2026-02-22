@@ -90,9 +90,8 @@ def chatbot():
             break
 
         user_input = preprocess(user_input)
-
-# check PDF first
-pdf_reply = search_pdf_answer(user_input, pdf_text)
+        #check the pdf first
+        pdf_reply = search_pdf_answer(user_input, pdf_text)
 
 if pdf_reply:
     print("Bot:", pdf_reply)
