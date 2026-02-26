@@ -2,7 +2,7 @@
   "hello": "Hello! How can I help you?",
   "hi": "Hi there!",
   "how are you": "I am functioning properly.",
-  "what is your name": "I am an NLP chatbot.",
+  "what is your name": "I’m a deterministic NLP assistant built with structured intent routing.",
   "bye": "Goodbye!",
   "help": "I can answer basic questions.",
   "who created you": "I was created by Vivek."
